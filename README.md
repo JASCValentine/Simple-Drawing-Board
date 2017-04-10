@@ -1,6 +1,4 @@
 # Simple Drawing Board
-https://www.codewars.com/kata/simple-drawing-board
-
 You are going to write a simple console-style drawing board program.
 
 # Functions
